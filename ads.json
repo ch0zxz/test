@@ -1,1 +1,16 @@
-{}
+{
+    "localtest": {
+        "projectName": "localtest",
+        "description": "tester",
+        "type": "community",
+        "author": "ch0zxz",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/ch0zxz/test",
+        "githubUri": "https://github.com/ch0zxz/test",
+        "license": "MIT",
+        "lastUpdated": "1690277622141",
+        "tags": [
+            "authentication"
+        ]
+    }
+}
